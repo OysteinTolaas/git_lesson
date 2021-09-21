@@ -1,0 +1,19 @@
+#Headline
+
+<<<<<<< HEAD
+x <- rnorm(400)
+y <- rnorm(400)
+
+#Important feature
+
+#NEW faturee - adding something
+=======
+x <- rnorm(200)
+y <- rnorm(200)
+
+#Important feature
+
+#NEW faturee
+
+#Crazy stuff
+>>>>>>> crazy-idea

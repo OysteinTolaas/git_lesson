@@ -4,5 +4,6 @@ x <- rnorm(400)
 y <- rnorm(400)
 
 #Important feature
-#Crazy stuff
+
+#an alternative way forward
 #NEW faturee - adding something
