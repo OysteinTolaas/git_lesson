@@ -1,8 +1,8 @@
 #Headline
 
-x <- rnorm(100)
-y <- rnorm(100)
+x <- rnorm(400)
+y <- rnorm(400)
 
 #Important feature
 
-#NEW faturee
+#NEW faturee - adding something
